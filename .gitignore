@@ -53,3 +53,4 @@ dkms.conf
 .DS_Store
 images/.DS_Store
 images/Thumbs.db
+.DS_Store
