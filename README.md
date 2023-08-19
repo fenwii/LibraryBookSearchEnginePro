@@ -1,10 +1,12 @@
-# LibraryBookSearchEngine 图书馆图书搜索引擎
-LibraryBookSearchEngine，link librarys  of all Countries, search all resources of books. 
+<div align="center">
+  <img width="200" src="https://www.aiappstore.cloud/assets/images/logos/aiclub.png">
+  <h1>LibraryBookSearchEngine 图书馆图书搜索引擎 Pro</h1>
+  <p>LibraryBookSearchEngine，link librarys  of all Countries, search all resources of books. 
 图书馆图书搜索引擎,在家链接全球148个国家的公共图书馆，学校图书馆，聚合查找搜索引擎，图书网站相关图书资源
 计划支持全球197个国家和地区。
 
 <p align="center">
-  <a href="https://github.com/fenwii/LibraryBookSearchEngine">
+  <a href="https://github.com/fenwii/LibraryBookSearchEnginePro">
     <img src="images/LibraryBookSearchEngine.gif" width="750px">
   </a>
 </p>
@@ -34,7 +36,15 @@ LibraryBookSearchEngine，link librarys  of all Countries, search all resources 
 功能：
 1.在原有148个国家的覆盖到全球共有197个国家的主流公共图书馆，大学图书馆网址库。
 
-
+  </p>
+  <p>
+    <a href="https://github.com/fenwii/LibraryBookSearchEnginePro/releases"><img src="https://img.shields.io/github/v/release/fenwii/LibraryBookSearchEnginePro"></a>
+    <a href="https://github.com/fenwii/LibraryBookSearchEnginePro"><img src="https://img.shields.io/github/downloads/fenwii/LibraryBookSearchEnginePro/total"></a>
+    <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a"/>
+    <img alt="macOS" src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+  </p>
+</div>
 
 
 <p align="center">
